@@ -1,5 +1,4 @@
-﻿# YouTube-Clone
- # YouTube Clone
+# YouTube Clone
 
 This project is a simple YouTube-like user interface built using HTML and CSS. It provides a header, sidebar navigation, and a grid layout of video previews with details.
 
